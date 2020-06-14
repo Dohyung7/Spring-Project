@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/org/zerock/controller/BoardController.java=UTF-8
+encoding//src/main/java/org/zerock/controller/ReplyController.java=UTF-8
+encoding//src/main/java/org/zerock/controller/SampleController.java=UTF-8
+encoding//src/main/java/org/zerock/controller/UploadController.java=UTF-8
+encoding//src/main/java/org/zerock/mapper/BoardMapper.java=UTF-8
+encoding//src/main/java/org/zerock/service/BoardServiceImpl.java=UTF-8
+encoding//src/main/java/org/zerock/task/FileCheckTask.java=UTF-8
+encoding//src/test/java/org/zerock/controller/BoardControllerTests.java=UTF-8
+encoding//src/test/java/org/zerock/security/MemberTests.java=UTF-8
